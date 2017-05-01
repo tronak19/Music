@@ -1,6 +1,6 @@
-Final Year Project
-Interpretation of Music Scoresheet to Generate Audio File
-Image Processing & Music Domain
+Final Year Project<br />
+Interpretation of Music Scoresheet to Generate Audio File<br />
+Image Processing & Music Domain<br />
 
 The goal of this project is to develop an image processing algorithm that takes a music scoresheet image as input and generates an audio file of the symphony represented by the scoresheet image as output.
 
