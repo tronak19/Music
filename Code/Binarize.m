@@ -1,0 +1,1 @@
+RGB = imread('../Images/crop.png');I = rgb2gray(RGB);BW = imbinarize(I);BW2 = imbinarize(I,0.2);IM = imcomplement(I);subplot(1,3,1), imshow(RGB);subplot(1,3,2), imshow(I);subplot(1,3,3), imshow(BW);% subplot(1,2,1), imshow(BW);% subplot(1,2,2), imshow(BW2);% figure;% imshowpair(I,BW,'montage');% imhist(BW);
